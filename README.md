@@ -1,1 +1,1 @@
-My implementation of auth-service(GRPC) on Golang
+My implementation of auth-service (GRPC)
